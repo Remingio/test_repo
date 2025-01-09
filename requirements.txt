@@ -2,3 +2,4 @@ Requirements for the project:
 matplotlib
 pandas
 seaborn
+scikitlearn
