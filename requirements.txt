@@ -3,3 +3,5 @@ matplotlib
 pandas
 seaborn
 scikitlearn
+#check for any other packages that might be necessary
+
